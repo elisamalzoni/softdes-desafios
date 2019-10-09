@@ -1,0 +1,22 @@
+.. Servidor de desafios - SoftDes documentation master file, created by
+   sphinx-quickstart on Tue Oct  8 09:12:40 2019.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to Servidor de desafios - SoftDes's documentation!
+==========================================================
+
+aaaaaa  aaaa descricao do projeto
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+        ./guias/aluno
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
