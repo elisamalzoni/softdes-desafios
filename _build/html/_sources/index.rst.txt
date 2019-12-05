@@ -9,10 +9,11 @@ Welcome to Servidor de desafios - SoftDes's documentation!
 aaaaaa  aaaa descricao do projeto
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
+   
+   guias/aluno
 
-        ./guias/aluno
 
 Indices and tables
 ==================
